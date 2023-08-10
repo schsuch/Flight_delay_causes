@@ -3,4 +3,4 @@ Using Python, Pandas, Seaborn and Plotly to explore causes of Flight delays in t
 
 
 ## Context 
-This project was carried out whilst attending a TechTalent Bootcamp during June & July 2023 
+This project was carried out whilst attending a TechTalent Data Science Bootcamp during June & July 2023 
